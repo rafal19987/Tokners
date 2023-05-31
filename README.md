@@ -11,3 +11,7 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2612a6f12fd53a899c5ebd80fef6faf75e975afd
